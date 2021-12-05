@@ -1,0 +1,148 @@
+﻿<Page x:Class="ProjetWPFV2.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjetWPFV2"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="750"
+      Title="MainPage">
+
+
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF747474" Offset="0"/>
+                <GradientStop Color="#FF363131" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150" />
+            <RowDefinition Height="150" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="10" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="5">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90*" />
+                    <ColumnDefinition Width="253*" />
+                    <ColumnDefinition Width="55" />
+                    <ColumnDefinition Width="251*" />
+                    <ColumnDefinition Width="90*" />
+                </Grid.ColumnDefinitions>
+                <Button FontSize="30" Grid.Column="1" BorderBrush="#FF006641" BorderThickness="4" Padding="10" FontFamily="Mongolian Baiti" FontStyle="Italic" FontWeight="Bold" Click="Button_Click" Margin="0,0,2.333,0.333">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FFFF111E" Opacity="0.6"/>
+                    </Button.Background>
+                    <Button.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="#FF989898" Offset="0.039"/>
+                        </LinearGradientBrush>
+                    </Button.Foreground>
+                    <TextBlock  TextWrapping="Wrap" Padding="5" FontWeight="ExtraBold" TextDecorations="{x:Null}" Height="41" FontSize="26" FontFamily="Century Gothic" FontStyle="Normal" Foreground="#FFFBFBFB">
+                        <TextBlock.Effect>
+                            <DropShadowEffect/>
+                        </TextBlock.Effect><Run Text="Espace Commis"/></TextBlock>
+                </Button>
+                <Button FontSize="36" Grid.Column="3" BorderBrush="#FF00663F" BorderThickness="4" Padding="10" FontFamily="Mongolian Baiti" FontStyle="Italic" FontWeight="Bold" Margin="0.333,0,1.333,0.333" Click="Button_Click_2">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FFFD171E" Opacity="0.6"/>
+                    </Button.Background>
+                    <Button.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="#FF989898" Offset="0.039"/>
+                        </LinearGradientBrush>
+                    </Button.Foreground>
+                    <TextBlock TextWrapping="Wrap" TextAlignment="Center" Text="Commandes" FontWeight="ExtraBold" TextDecorations="{x:Null}" FontSize="26" FontFamily="Century Gothic" FontStyle="Normal" Foreground="White">
+                        <TextBlock.Effect>
+                            <DropShadowEffect/>
+                        </TextBlock.Effect>
+                    </TextBlock>
+                </Button>
+
+            </Grid>
+            <Grid Margin="0,30">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="20" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="20" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button  FontSize="36" Width="200" Grid.Column="0" BorderBrush="#FF00663F" BorderThickness="4" Height="90" Padding="10" FontFamily="Mongolian Baiti" FontStyle="Italic" FontWeight="Bold" Click="Button_Click_3">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FFFD171E" Opacity="0.5"/>
+                    </Button.Background>
+                    <Button.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="#FF989898" Offset="0.039"/>
+                        </LinearGradientBrush>
+                    </Button.Foreground>
+                    <TextBlock TextWrapping="NoWrap" Padding="8" Text="Espace Admin" FontWeight="ExtraBold" VerticalAlignment="Center" TextDecorations="{x:Null}" Height="41" FontSize="26" FontStyle="Normal" Foreground="White">
+                        <TextBlock.Effect>
+                            <DropShadowEffect/>
+                        </TextBlock.Effect>
+                    </TextBlock>
+                </Button>
+                <Button  FontSize="36" Width="200" Grid.Column="2" BorderBrush="#FF00663F" BorderThickness="4" Height="90" Padding="10" FontFamily="Mongolian Baiti" FontStyle="Italic" FontWeight="Bold" Click="Button_Click_4">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FFFD171E" Opacity="0.5"/>
+                    </Button.Background>
+                    <Button.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="#FF989898" Offset="0.039"/>
+                        </LinearGradientBrush>
+                    </Button.Foreground>
+                    <TextBlock TextWrapping="Wrap" Text=" Statistiques" FontWeight="Bold" TextDecorations="{x:Null}" TextAlignment="Center" FontSize="26" FontStyle="Normal">
+                        <TextBlock.Effect>
+                            <DropShadowEffect/>
+                        </TextBlock.Effect>
+                        <TextBlock.Foreground>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="White" Offset="1"/>
+                                <GradientStop Color="#FFFEFEFE" Offset="0.039"/>
+                                <GradientStop Color="White" Offset="0.197"/>
+                            </LinearGradientBrush>
+                        </TextBlock.Foreground>
+                    </TextBlock>
+                </Button>
+                <Button  FontSize="36" Width="200" Grid.Column="4" BorderBrush="#FF00663F" BorderThickness="4" Height="90" Padding="10" FontFamily="Mongolian Baiti" FontStyle="Italic" FontWeight="Bold" Click="Button_Click_1">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FFFD171E" Opacity="0.5"/>
+                    </Button.Background>
+                    <Button.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="#FF989898" Offset="0.039"/>
+                        </LinearGradientBrush>
+                    </Button.Foreground>
+                    <TextBlock TextWrapping="NoWrap" Padding="8" FontWeight="ExtraBold" TextDecorations="{x:Null}" Height="41" FontSize="26" FontStyle="Normal" Width="190">
+                        <TextBlock.Effect>
+                            <DropShadowEffect/>
+                        </TextBlock.Effect>
+                        <TextBlock.Foreground>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="White" Offset="1"/>
+                                <GradientStop Color="#FF989898" Offset="0.039"/>
+                                <GradientStop Color="White" Offset="0.197"/>
+                            </LinearGradientBrush>
+                        </TextBlock.Foreground><Run Text="    "/><Run Text="  "/><Run Text="Menu"/></TextBlock>
+                </Button>
+
+            </Grid>
+        </StackPanel>
+        <Label Content="Pizzeria" Grid.Column="1" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Height="130" Width="230" FontFamily="Sitka Banner" FontSize="70"/>
+
+    </Grid>
+</Page>

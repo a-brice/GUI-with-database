@@ -1,0 +1,212 @@
+﻿<Page x:Class="ProjetWPFV2.PageIdCommis"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjetWPFV2"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="750"
+      Title="PageIdCommis">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF363131" Offset="0"/>
+                <GradientStop Color="Gray" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+
+        <StackPanel Margin="39,220,-19,0">
+            <DockPanel HorizontalAlignment="Left" Height="134" LastChildFill="False" VerticalAlignment="Top" Width="689">
+                <Button FontSize="36" Width="300" Margin="20,0" Height="72" BorderBrush="#FF216240" BorderThickness="4" Padding="10" FontFamily="Mongolian Baiti" FontStyle="Italic" FontWeight="Bold" Click="Button_Click">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FFFD171E" Opacity="0.5"/>
+                    </Button.Background>
+                    <Button.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.039"/>
+                        </LinearGradientBrush>
+                    </Button.Foreground>
+                    <TextBlock TextWrapping="NoWrap" Text="S'identifier" FontWeight="ExtraBold" TextDecorations="{x:Null}" Height="41" FontSize="28" FontFamily="Century Gothic" FontStyle="Normal">
+                        <TextBlock.Effect>
+                            <DropShadowEffect/>
+                        </TextBlock.Effect>
+                        <TextBlock.Foreground>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="White" Offset="1"/>
+                                <GradientStop Color="#FF989898" Offset="0.039"/>
+                                <GradientStop Color="White" Offset="0.197"/>
+                            </LinearGradientBrush>
+                        </TextBlock.Foreground>
+                    </TextBlock>
+                </Button>
+                <Button FontSize="36" Width="300" BorderBrush="#FF186D42" Margin="20,0" Height="80" BorderThickness="4" Padding="10" FontFamily="Mongolian Baiti" FontStyle="Italic" FontWeight="Bold" Click="Button_Click_1">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FFFD171E" Opacity="0.475"/>
+                    </Button.Background>
+                    <Button.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="#FF989898" Offset="0.039"/>
+                        </LinearGradientBrush>
+                    </Button.Foreground>
+                    <TextBlock TextWrapping="Wrap" Text="Nouveau Compte" FontWeight="ExtraBold" TextDecorations="{x:Null}" Height="41" FontSize="28" FontFamily="Century Gothic" FontStyle="Normal">
+                        <TextBlock.Effect>
+                            <DropShadowEffect/>
+                        </TextBlock.Effect>
+                        <TextBlock.Foreground>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="White" Offset="1"/>
+                                <GradientStop Color="#FF989898" Offset="0.039"/>
+                                <GradientStop Color="White" Offset="0.197"/>
+                            </LinearGradientBrush>
+                        </TextBlock.Foreground>
+                    </TextBlock>
+                </Button>
+
+            </DockPanel>
+            <StackPanel x:Name="stkpconnexion" Visibility="Collapsed">
+                <DockPanel>
+                    <Label Padding="30,0,10,0" Foreground="White" FontSize="18"  VerticalAlignment="Center" FontFamily="Sitka Heading" Content="Identifiant :">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <TextBox Width="180" Height="30" x:Name="txtboxid" FontSize="16" VerticalContentAlignment="Center" FontFamily="Sitka Display"/>
+                    <Label Padding="50,0,10,0" Foreground="White" FontSize="18" VerticalAlignment="Center" FontFamily="Sitka Heading" Content="Mot de passe :">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <PasswordBox x:Name="txtboxpwsd" Password="admin" Width="180" Height="30" Margin="-60,0,0,0" VerticalContentAlignment="Center" FontSize="16" FontFamily="Sitka Display"/>
+                </DockPanel>
+
+                <Button Height="27" Margin="420,30,0,0" BorderThickness="1.25" Width="180" Content="Se Connecter" Foreground="White" FontSize="18" VerticalAlignment="Center" FontFamily="Sitka Heading" BorderBrush="#FF47381D" Click="Button_Click_2" >
+                    <Button.Background>
+                        <RadialGradientBrush>
+                            <GradientStop Color="#FF494949" Offset="0"/>
+                            <GradientStop Color="#FFA69E9E" Offset="1"/>
+                        </RadialGradientBrush>
+                    </Button.Background>
+                </Button>
+            </StackPanel>
+            <StackPanel x:Name="stkpcreation" Visibility="Collapsed">
+                <DockPanel Margin="40,0,0,0">
+                    <Label Padding="52,0,10,0" Foreground="White" FontSize="18"  VerticalAlignment="Center" FontFamily="Sitka Heading" Content="Nom :">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <TextBox Width="180" Height="30" x:Name="txtboxNom" FontSize="16" VerticalContentAlignment="Center" FontFamily="Sitka Display"/>
+                    <Label Padding="68,0,10,0" Foreground="White" FontSize="18" VerticalAlignment="Center" FontFamily="Sitka Heading" Content="Prenom :">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <TextBox  Width="180" Height="30" Margin="-60,0,0,0" x:Name="txtboxPrenom" VerticalContentAlignment="Center" FontSize="16" FontFamily="Sitka Display"/>
+                </DockPanel>
+                <DockPanel  Margin="40,10,0,0">
+                    <Label Padding="30,0,10,0" Foreground="White" FontSize="18"  VerticalAlignment="Center" FontFamily="Sitka Heading" Content="Adresse :">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <TextBox Width="180" Height="30" x:Name="txtboxAdd" FontSize="16" VerticalContentAlignment="Center" FontFamily="Sitka Display"/>
+                    <Label Padding="50,0,10,0" Foreground="White" FontSize="18" VerticalAlignment="Center" FontFamily="Sitka Heading" Content="Téléphone :">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <TextBox  Width="180" Height="30" Margin="-60,0,0,0" x:Name="txtboxNum" VerticalContentAlignment="Center" FontSize="16" FontFamily="Sitka Display"/>
+                </DockPanel>
+                <DockPanel  Margin="40,10,0,10">
+                    <Label Padding="50,0,10,0" Foreground="White" FontSize="18"  VerticalAlignment="Center" FontFamily="Sitka Heading" Content="Type :">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <ComboBox Width="180" Height="30" x:Name="txtboxEff" FontSize="16" VerticalContentAlignment="Center" FontFamily="Sitka Display" SelectionChanged="TxtboxEff_SelectionChanged">
+                        <ComboBoxItem Content="Commis"/>
+                        <ComboBoxItem Content="Livreur"/>
+                    </ComboBox>
+                    <Label Padding="50,0,10,0" Foreground="White" Visibility="Collapsed" FontSize="18" x:Name="lblTransport" VerticalAlignment="Center" FontFamily="Sitka Heading" Content="Transport :">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <TextBox  Width="180" Height="30" Margin="-60,0,0,0"  Visibility="Collapsed" x:Name="txtboxTransport" VerticalContentAlignment="Center" FontSize="16" FontFamily="Sitka Display"/>
+                </DockPanel>
+                <Button Height="27" Margin="420,10,0,0" x:Name="btncreation" BorderThickness="1.25" Width="180" Content="Enregistrer" Foreground="White" FontSize="18" VerticalAlignment="Center" FontFamily="Sitka Heading" BorderBrush="#FF47381D" Click="Btncreation_Click" >
+                    <Button.Background>
+                        <RadialGradientBrush>
+                            <GradientStop Color="#FF494949" Offset="0"/>
+                            <GradientStop Color="#FFA69E9E" Offset="1"/>
+                        </RadialGradientBrush>
+                    </Button.Background>
+                </Button>
+            </StackPanel>
+
+
+        </StackPanel>
+        <Expander IsExpanded="True" Height="150" Width="150" RenderTransformOrigin="0.5,0.5" Margin="67,404,0,0">
+            <Expander.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Expander.RenderTransform>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label Panel.ZIndex="3" Padding="5,7,0,0" Grid.Row="1" RenderTransformOrigin="0.5,0.5" BorderBrush="#FFF3E4E4" FontFamily="Sitka Heading" FontSize="13">
+                    <Label.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="0"/>
+                            <GradientStop Color="#FFC2BEBE" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Label.Background>
+                    <Label.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="179.656"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Label.RenderTransform> Liste des ID disponibles :
+                </Label>
+                <ListBox Name="lstboxhide" Grid.Row="0"  DisplayMemberPath="Num" RenderTransformOrigin="0.5,0.5"  SelectionChanged="Lstboxhide_SelectionChanged">
+
+                    <ListBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="180"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </ListBox.RenderTransform>
+                </ListBox>
+
+            </Grid>
+        </Expander>
+        <StackPanel Margin="10,10,630,420" >
+            <Button Margin="0,30
+                    " Name="btngoback"  Width="40" Height="40" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="Btngoback_Click" Panel.ZIndex="3" Background="{x:Null}" >
+                <Image Source="fleche.png" RenderTransformOrigin="-1.31,1.681" OpacityMask="White" Height="40" Width="40" />
+            </Button>
+        </StackPanel>
+        <Label Content="Pizzeria" HorizontalAlignment="Left" Margin="266,130,0,0" VerticalAlignment="Top" Height="85" Width="234" FontSize="70" FontFamily="Sitka Display"/>
+
+
+
+
+    </Grid>
+
+</Page>
+ 
