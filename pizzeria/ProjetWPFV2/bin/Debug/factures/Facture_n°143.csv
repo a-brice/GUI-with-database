@@ -1,0 +1,33 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°143
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0754952896
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Calzon Jambon;Grande;2;40
+4 Saisons;Petite;11;99
+Napolitaine;Grande;12;192
+Veggie;Grande;2;32
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Coca;33;2;4
+Orangina;50;2;6
+Sprite;100;12;96
+Royal Soda;100;19;38
+Fanta;33;12;48
+Orangina;50;4;12

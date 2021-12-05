@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°183
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0625222899
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Regina;Grande;4;88
+4 Fromages;Petite;4;36
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Fanta;100;4;0

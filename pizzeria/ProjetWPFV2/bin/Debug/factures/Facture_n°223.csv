@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°223
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0647852642
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Veggie;Petite;1;8
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+

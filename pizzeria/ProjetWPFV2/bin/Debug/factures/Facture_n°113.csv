@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°113
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0754952896
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+4 Fromages;Petite;2;22
+Veggie;Moyenne;3;36
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+

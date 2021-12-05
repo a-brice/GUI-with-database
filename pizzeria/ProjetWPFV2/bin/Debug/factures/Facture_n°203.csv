@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°203
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0754952896
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+4 Fromages;Grande;4;56
+Extra Maison;Moyenne;1;16,5
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Fanta;50;3;13,5

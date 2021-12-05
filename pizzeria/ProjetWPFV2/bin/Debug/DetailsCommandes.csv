@@ -1,0 +1,67 @@
+N°Commande;Nom Item;Prix (à l'unité);Type;Taille;Volume (cl);Quantite;solde
+223;Pizza;8;Veggie;Petite;;1
+223;Pizza;8;Calzon Jambon;Petite;;1
+233;Pizza;8;Veggie;Moyenne;;2
+233;Sprite;4;;;50;1
+113;Pizza;11;4 Fromages;Petite;;2
+113;Pizza;8;Veggie;Moyenne;;3
+213;Pizza;8;Calzon Jambon;Petite;;3
+213;Pizza;8;Veggie;Moyenne;;2
+213;Royal Soda;1;;;100;3
+213;Pizza;8;Napolitaine;Grande;;4
+273;Pizza;8;Veggie;Petite;;2
+273;Pizza;8;Veggie;Moyenne;;4
+273;Royal Soda;1;;;50;2
+112;Pizza;9;4 Saisons;Grande;;4
+112;Sprite;4;;;33;2
+173;Fanta;0;;;33;4
+173;Orangina;3;;;33;3
+193;Pizza;8;Veggie;Petite;;1
+193;Orangina;3;;;33;4
+193;Pizza;10;Calzon Jambon;Grande;;2
+111;Pizza;14;Extra Maison;Petite;;1
+143;Coca;2;;;33;2
+143;Pizza;10;Calzon Jambon;Grande;;2
+143;Orangina;2;;;50;2
+143;Pizza;9;4 Saisons;Petite;;11
+143;Sprite;4;;;100;12
+143;Pizza;8;Napolitaine;Grande;;12
+143;Royal Soda;1;;;100;19
+143;Fanta;4;;;33;12
+143;Orangina;2;;;50;4
+143;Pizza;8;Veggie;Grande;;2
+263;Pizza;8;Veggie;Moyenne;;2
+263;Orangina;2;;;50;1
+263;Pizza;8;Napolitaine;Petite;;2
+263;Orangina;2;;;33;1
+263;Sprite;4;;;100;1
+263;Pizza;11;4 Fromages;Moyenne;;3
+263;Pizza;13;Neveda;Grande;;2
+153;Pizza;11;Veggie;Grande;;3
+153;Pizza;7;Extra Maison;Moyenne;;2
+153;Pizza;8;Calzon Jambon;Grande;;1
+153;Pizza;8;Calzon Jambon;Moyenne;;1
+153;Orangina;2;;;100;2
+153;Orangina;2;;;33;1
+203;Fanta;3;;;50;3
+203;Pizza;7;4 Fromages;Grande;;4
+203;Pizza;11;Extra Maison;Moyenne;;1
+163;Pizza;11;4 Saisons;;;4
+163;Pizza;8;Regina;Moyenne;;2
+183;Pizza;11;Regina;Grande;;4
+183;Pizza;9;4 Fromages;Petite;;4
+183;Fanta;0;;;100;4
+133;Pizza;9;Vegetarienne;Grande;;3
+133;Sprite;3;;;50;1
+133;Pizza;13;Neveda;Petite;;1
+133;Pizza;13;Neveda;Petite;;1
+133;Royal Soda;1;;;50;3
+133;Pizza;8;Veggie;Moyenne;;2
+123;Pizza;13;Neveda;Petite;;2
+123;Orangina;2;;;33;1
+253;Pizza;8;Napolitaine;Grande;;2
+253;Orangina;2;;;50;1
+253;Pizza;13;Regina;Petite;;3
+283;Pizza;11;4 Fromages;Moyenne;;2
+283;Orangina;2;;;50;1
+283;Pizza;9;4 Saisons;Grande;;1

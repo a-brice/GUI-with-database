@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°263
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0647852642
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Napolitaine;Petite;2;16
+4 Fromages;Moyenne;3;49,5
+Neveda;Grande;2;52
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Orangina;33;1;2
+Sprite;100;1;8

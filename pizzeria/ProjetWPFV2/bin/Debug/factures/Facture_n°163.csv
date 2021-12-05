@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°163
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0664507535
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+4 Saisons;;4;0
+Regina;Moyenne;2;24
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+

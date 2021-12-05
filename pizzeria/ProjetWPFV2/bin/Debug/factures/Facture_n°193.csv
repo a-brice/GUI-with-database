@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°193
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0754952896
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Veggie;Petite;1;8
+Calzon Jambon;Grande;2;40
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Orangina;33;4;12

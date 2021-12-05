@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°123
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0768902248
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Neveda;Petite;2;26
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+

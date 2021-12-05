@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°111
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0754952896
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Extra Maison;Petite;1;14
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+

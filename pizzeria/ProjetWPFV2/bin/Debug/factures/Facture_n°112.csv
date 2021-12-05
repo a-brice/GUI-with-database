@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°112
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0706598132
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+4 Saisons;Grande;4;72
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Sprite;33;2;8

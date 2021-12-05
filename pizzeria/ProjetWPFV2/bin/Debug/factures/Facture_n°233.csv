@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°233
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 054849457
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Veggie;Moyenne;2;24
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Sprite;50;1;6

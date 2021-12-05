@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°283
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 065738462
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+4 Fromages;Moyenne;2;33
+4 Saisons;Grande;1;18
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Orangina;50;1;3

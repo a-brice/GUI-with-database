@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°153
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0625222899
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Veggie;Grande;3;66
+Extra Maison;Moyenne;2;21
+Calzon Jambon;Grande;1;16
+Calzon Jambon;Moyenne;1;12
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Orangina;100;2;8
+Orangina;33;1;2

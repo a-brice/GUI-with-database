@@ -1,0 +1,21 @@
+------------------------------
+----------Facture_n°112----------
+------------------------------
+
+
+
+
+
+
+Pizza Commandées : 
+
+Label 		 Type de Pizza 		 Taille 		 Quantité 		 + Total
+-	 Pizza		4 Saisons		Grande		4		72
+
+
+
+
+Produits Annexes : 
+
+Label 		 Volume 		 Quantité 		 + Total
+-	 Produit		33		2		8

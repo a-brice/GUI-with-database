@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°213
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 065738462
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Calzon Jambon;Petite;3;24
+Veggie;Moyenne;2;24
+Napolitaine;Grande;4;64
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Royal Soda;100;3;6

@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°273
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0768902248
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Veggie;Moyenne;4;48
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Royal Soda;50;2;3

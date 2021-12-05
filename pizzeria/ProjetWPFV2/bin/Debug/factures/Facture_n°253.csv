@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°253
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0638404778
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Napolitaine;Grande;2;32
+Regina;Petite;3;39
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Orangina;50;1;3

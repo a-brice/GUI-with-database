@@ -1,0 +1,24 @@
+N° de commande;jour heure;client;commis;livreur;etat;solde
+223;23/01/2021 18:59:21;0647852642;Valiou;;en préparation;
+243;23/01/2021 20:09:09;0706598132;Valiou;;en préparation;
+283;25/01/2021 03:09:09;054849457;Valiou;;en préparation;
+233;23/01/2021 19:32:50;054849457;Valiou;;en préparation;
+113;03/01/2021 12:00:00;0754952896;Ormal;Chenal;en livraison;perdue
+213;23/01/2021 18:07:21;065738462;Valiou;Chenal;fermée;perdue
+273;25/01/2021 03:07:06;054849457;Valiou;Chenal;fermée;ok
+112;02/01/2021 13:44:00;0706598132;Valiou;Chenal;fermée;ok
+173;04/01/2021 19:57:00;0664507535;Geni;Freud;en livraison;
+193;06/01/2021 22:39:00;0754952896;Geni;Freud;en livraison;
+111;02/01/2021 12:48:00;0754952896;Valiou;Freud;fermée;ok
+143;06/01/2021 11:09:00;0754952896;Valiou;Freud;en livraison;
+263;25/01/2021 03:04:20;054849457;Valiou;Harris;fermée;ok
+153;07/01/2021 12:12:00;0625222899;Valiou;Harris;en preparation;
+203;07/01/2021 18:12:00;0754952896;Valiou;Harris;en preparation;
+163;03/01/2021 18:50:00;0664507535;Valiou;Harris;en préparation;
+183;05/01/2021 18:43:00;0625222899;Geni;Harris;en preparation;
+133;05/01/2021 21:33:00;0768902248;Ormal;Tardi;en preparation;
+123;04/01/2021 12:56:00;0768902248;Ormal;Tardi;fermée;perdue
+253;24/01/2021 20:28:19;0638404778;Valiou;Tardi;fermée;ok
+263;02/02/2021 12:42:18;0647852642;Thomas;Zer;fermée;ok
+273;03/02/2021 12:00:31;0768902248;Valiou;Tardi;en livraison;
+283;05/02/2021 18:53:53;065738462;Valiou;Tardi;en livraison;

@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------
+;;Facture_n°133
+----------------------------------------------------------------------------------------------------
+
+
+
+
+Numero du client : ;; 0768902248
+
+
+
+;Pizza Commandees 
+
+Type de Pizza ;Taille;Quantite;Total
+
+Vegetarienne;Grande;3;54
+Neveda;Petite;1;13
+Neveda;Petite;1;13
+Veggie;Moyenne;2;24
+
+
+
+
+;Produits Annexes 
+
+Label;Volume;Quantite;Total
+
+Sprite;50;1;4,5
+Royal Soda;50;3;4,5
