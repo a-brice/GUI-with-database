@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfIndividu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Individu>
+    <Noclient>I1</Noclient>
+    <Nom>LAURENT</Nom>
+    <Adresse>33 allée des marrons 26000 Tours</Adresse>
+    <Couriel>laurent.axel@gmail.com</Couriel>
+    <Num>610474664</Num>
+    <Prenom>Axel</Prenom>
+    <Adhesions>
+      <Fidelio>
+        <Noprogramme>1</Noprogramme>
+        <Cout>15</Cout>
+        <Description>Fidélio</Description>
+        <Rabais>0.05</Rabais>
+        <DateDebut>2018-09-27T00:00:00</DateDebut>
+        <Duree>1</Duree>
+      </Fidelio>
+    </Adhesions>
+  </Individu>
+  <Individu>
+    <Noclient>I11</Noclient>
+    <Nom>MICHEL</Nom>
+    <Adresse>68 rue des champs 49000 Paris</Adresse>
+    <Couriel>michel.julien@gmail.com</Couriel>
+    <Num>611387683</Num>
+    <Prenom>Julien</Prenom>
+    <Adhesions>
+      <Fidelio>
+        <Noprogramme>1</Noprogramme>
+        <Cout>15</Cout>
+        <Description>Fidélio</Description>
+        <Rabais>0.05</Rabais>
+        <DateDebut>2018-11-13T00:00:00</DateDebut>
+        <Duree>1</Duree>
+      </Fidelio>
+    </Adhesions>
+  </Individu>
+  <Individu>
+    <Noclient>I10</Noclient>
+    <Nom>SIMON</Nom>
+    <Adresse>153 avenue Paul Bert 44000 Paris</Adresse>
+    <Couriel>simon.enzo@gmail.com</Couriel>
+    <Num>749252102</Num>
+    <Prenom>Enzo</Prenom>
+    <Adhesions>
+      <Fidelio>
+        <Noprogramme>3</Noprogramme>
+        <Cout>60</Cout>
+        <Description>Fidélio Platine</Description>
+        <Rabais>0.1</Rabais>
+        <DateDebut>2019-01-09T00:00:00</DateDebut>
+        <Duree>2</Duree>
+      </Fidelio>
+    </Adhesions>
+  </Individu>
+  <Individu>
+    <Noclient>I5</Noclient>
+    <Nom>ROBERT</Nom>
+    <Adresse>158 chemin Victor Hugo 60000 Bretagne</Adresse>
+    <Couriel>robert.alexis@gmail.com</Couriel>
+    <Num>765417995</Num>
+    <Prenom>Alexis</Prenom>
+    <Adhesions>
+      <Fidelio>
+        <Noprogramme>3</Noprogramme>
+        <Cout>60</Cout>
+        <Description>Fidélio Platine</Description>
+        <Rabais>0.1</Rabais>
+        <DateDebut>2018-05-04T00:00:00</DateDebut>
+        <Duree>2</Duree>
+      </Fidelio>
+    </Adhesions>
+  </Individu>
+  <Individu>
+    <Noclient>I8</Noclient>
+    <Nom>MOREAU</Nom>
+    <Adresse>26 avenue stalingrad 87000 Paris</Adresse>
+    <Couriel>moreau.alexandre@gmail.com</Couriel>
+    <Num>606024830</Num>
+    <Prenom>Alexandre</Prenom>
+    <Adhesions>
+      <Fidelio>
+        <Noprogramme>3</Noprogramme>
+        <Cout>60</Cout>
+        <Description>Fidélio Platine</Description>
+        <Rabais>0.1</Rabais>
+        <DateDebut>2018-07-28T00:00:00</DateDebut>
+        <Duree>2</Duree>
+      </Fidelio>
+    </Adhesions>
+  </Individu>
+  <Individu>
+    <Noclient>I19</Noclient>
+    <Nom>BERTRAND</Nom>
+    <Adresse>4 avenue de la fresnaie 57000 Courbevoie</Adresse>
+    <Couriel>bertrand.jules@gmail.com</Couriel>
+    <Num>625389042</Num>
+    <Prenom>Jules</Prenom>
+    <Adhesions>
+      <Fidelio>
+        <Noprogramme>4</Noprogramme>
+        <Cout>100</Cout>
+        <Description>Fidélio Max</Description>
+        <Rabais>0.12</Rabais>
+        <DateDebut>2018-02-01T00:00:00</DateDebut>
+        <Duree>3</Duree>
+      </Fidelio>
+    </Adhesions>
+  </Individu>
+</ArrayOfIndividu>

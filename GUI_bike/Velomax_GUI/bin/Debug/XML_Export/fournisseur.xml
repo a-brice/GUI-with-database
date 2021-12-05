@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFournisseur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fournisseur>
+    <Siret>15285311500064</Siret>
+    <Nom>Voip</Nom>
+    <Contact>Martinez</Contact>
+    <Adresse>148 rue des fougeres 72000 Caen</Adresse>
+    <Libelle>1</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>19931489000085</Siret>
+    <Nom>Myoflawonlinecom</Nom>
+    <Contact>Marty</Contact>
+    <Adresse>13 avenue des petits père 01393 Cannes</Adresse>
+    <Libelle>2</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>23432622900064</Siret>
+    <Nom>VeloIntique</Nom>
+    <Contact>Vidal</Contact>
+    <Adresse>12 chemin Victor Hugo 60000 Bretagne</Adresse>
+    <Libelle>4</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>24224337400049</Siret>
+    <Nom>Vetilee</Nom>
+    <Contact>Fernandez</Contact>
+    <Adresse>169 avenue de Malte 42000 Paris</Adresse>
+    <Libelle>1</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>25074959100020</Siret>
+    <Nom>Windsterra</Nom>
+    <Contact>Fabre</Contact>
+    <Adresse>2 avenue Paul Bert 44000 Paris</Adresse>
+    <Libelle>3</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>46548993000017</Siret>
+    <Nom>McciannisVanas</Nom>
+    <Contact>Soler</Contact>
+    <Adresse>4 rue de la fresnaie 57000 Courbevoie</Adresse>
+    <Libelle>3</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>46564775500033</Siret>
+    <Nom>Cuedote</Nom>
+    <Contact>Pagès</Contact>
+    <Adresse>9 avenue de Paris 39000 Bordeaux</Adresse>
+    <Libelle>1</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>49250150500010</Siret>
+    <Nom>PlanetElInfocor</Nom>
+    <Contact>Sanchez</Contact>
+    <Adresse>58 rue Victor Henry 84000 Limoges</Adresse>
+    <Libelle>4</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>51878023500078</Siret>
+    <Nom>MidflightJersey</Nom>
+    <Contact>Durand</Contact>
+    <Adresse>10 avenue de  la biche 61000 Lilles</Adresse>
+    <Libelle>4</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>53304075500098</Siret>
+    <Nom>Intivella</Nom>
+    <Contact>Perez</Contact>
+    <Adresse>238 allée des chênes 18000 Genevres</Adresse>
+    <Libelle>1</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>54703063500044</Siret>
+    <Nom>Weadley</Nom>
+    <Contact>Martin</Contact>
+    <Adresse>26 rue de stalingrad 87000 Paris</Adresse>
+    <Libelle>3</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>58786717500015</Siret>
+    <Nom>VeloHotel</Nom>
+    <Contact>Rodriguez</Contact>
+    <Adresse>100 rue des champs 49000 Paris</Adresse>
+    <Libelle>4</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>66975090100037</Siret>
+    <Nom>VeloAdore</Nom>
+    <Contact>Ruiz</Contact>
+    <Adresse>174 chemin de la ruche 75000 Paris</Adresse>
+    <Libelle>3</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>67672614300041</Siret>
+    <Nom>Wisewood</Nom>
+    <Contact>Ferrer</Contact>
+    <Adresse>1 avenue du bois 15000 Bordeaux</Adresse>
+    <Libelle>1</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>74182091500028</Siret>
+    <Nom>Orgo</Nom>
+    <Contact>Pujol</Contact>
+    <Adresse>74 avenue Georges Peintre 39000 Paris</Adresse>
+    <Libelle>4</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>87280174000039</Siret>
+    <Nom>Willconsul</Nom>
+    <Contact>Gomez</Contact>
+    <Adresse>10 avenue du lycée 11000 Strasbourg</Adresse>
+    <Libelle>1</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>87331176100018</Siret>
+    <Nom>BallItUpGlobal</Nom>
+    <Contact>Puig</Contact>
+    <Adresse>93 rue du moulin 60000 Normandie</Adresse>
+    <Libelle>1</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+  <Fournisseur>
+    <Siret>98913784400065</Siret>
+    <Nom>Normotic</Nom>
+    <Contact>Lopez</Contact>
+    <Adresse>187 avenue sapins 42000 Bordeaux</Adresse>
+    <Libelle>3</Libelle>
+    <Delai>0</Delai>
+    <Cout>0</Cout>
+    <Stock>0</Stock>
+  </Fournisseur>
+</ArrayOfFournisseur>

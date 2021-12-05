@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfIndividu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Individu>
+    <Noclient>I1</Noclient>
+    <Nom>LAURENT</Nom>
+    <Adresse>33 allée des marrons 26000 Tours</Adresse>
+    <Couriel>laurent.axel@gmail.com</Couriel>
+    <Num>610474664</Num>
+    <Prenom>Axel</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I10</Noclient>
+    <Nom>SIMON</Nom>
+    <Adresse>153 avenue Paul Bert 44000 Paris</Adresse>
+    <Couriel>simon.enzo@gmail.com</Couriel>
+    <Num>749252102</Num>
+    <Prenom>Enzo</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I11</Noclient>
+    <Nom>MICHEL</Nom>
+    <Adresse>68 rue des champs 49000 Paris</Adresse>
+    <Couriel>michel.julien@gmail.com</Couriel>
+    <Num>611387683</Num>
+    <Prenom>Julien</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I12</Noclient>
+    <Nom>LEFEBVRE</Nom>
+    <Adresse>98 avenue Paris 90000 Bordeaux</Adresse>
+    <Couriel>lefebvre.leo@gmail.com</Couriel>
+    <Num>666751249</Num>
+    <Prenom>Leo</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I13</Noclient>
+    <Nom>LEROY</Nom>
+    <Adresse>174 allée de la ruche 35000 Paris</Adresse>
+    <Couriel>leroy.lucas@gmail.com</Couriel>
+    <Num>777574465</Num>
+    <Prenom>Lucas</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I14</Noclient>
+    <Nom>ROUX</Nom>
+    <Adresse>155 avenue Georges Peintre 39000 Paris</Adresse>
+    <Couriel>roux.matteo@gmail.com</Couriel>
+    <Num>657970188</Num>
+    <Prenom>Matteo</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I15</Noclient>
+    <Nom>GIRARD</Nom>
+    <Adresse>20 avenue du bois 15000 Bordeaux</Adresse>
+    <Couriel>girard.mael@gmail.com</Couriel>
+    <Num>776825441</Num>
+    <Prenom>Mael</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I16</Noclient>
+    <Nom>FOURNIER</Nom>
+    <Adresse>30 rue du moulin 60000 Normandie</Adresse>
+    <Couriel>fournier.maxime@gmail.com</Couriel>
+    <Num>657048783</Num>
+    <Prenom>Maxime</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I17</Noclient>
+    <Nom>LAMBERT</Nom>
+    <Adresse>100 avenue de  la biche 61000 Lilles</Adresse>
+    <Couriel>lambert.gabriel@gmail.com</Couriel>
+    <Num>687543739</Num>
+    <Prenom>Gabriel</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I18</Noclient>
+    <Nom>FONTAINE</Nom>
+    <Adresse>151 avenue du lycée 11000 Strasbourg</Adresse>
+    <Couriel>fontaine.raphael@gmail.com</Couriel>
+    <Num>704485383</Num>
+    <Prenom>Raphael</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I19</Noclient>
+    <Nom>BERTRAND</Nom>
+    <Adresse>4 avenue de la fresnaie 57000 Courbevoie</Adresse>
+    <Couriel>bertrand.jules@gmail.com</Couriel>
+    <Num>625389042</Num>
+    <Prenom>Jules</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I2</Noclient>
+    <Nom>BERNARD</Nom>
+    <Adresse>148 avenue des feuilles 72000 Caen</Adresse>
+    <Couriel>bernard.arthur@gmail.com</Couriel>
+    <Num>762571813</Num>
+    <Prenom>Arthur</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I3</Noclient>
+    <Nom>THOMAS</Nom>
+    <Adresse>187 rue des sapins 42000 Bordeaux</Adresse>
+    <Couriel>thomas.evan@gmail.com</Couriel>
+    <Num>649918602</Num>
+    <Prenom>Evan</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I4</Noclient>
+    <Nom>PETIT</Nom>
+    <Adresse>58 avenue Henry 84000 Limoges</Adresse>
+    <Couriel>petit.adrien@gmail.com</Couriel>
+    <Num>783360387</Num>
+    <Prenom>Adrien</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I5</Noclient>
+    <Nom>ROBERT</Nom>
+    <Adresse>158 chemin Victor Hugo 60000 Bretagne</Adresse>
+    <Couriel>robert.alexis@gmail.com</Couriel>
+    <Num>765417995</Num>
+    <Prenom>Alexis</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I6</Noclient>
+    <Nom>RICHARD</Nom>
+    <Adresse>107 avenue des chênes 18000 Genevres</Adresse>
+    <Couriel>richard.antoine@gmail.com</Couriel>
+    <Num>635202040</Num>
+    <Prenom>Antoine</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I7</Noclient>
+    <Nom>DURAND</Nom>
+    <Adresse>13 avenue des petits père 4000 Cannes</Adresse>
+    <Couriel>durand.adam@gmail.com</Couriel>
+    <Num>708551495</Num>
+    <Prenom>Adam</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I8</Noclient>
+    <Nom>MOREAU</Nom>
+    <Adresse>26 avenue stalingrad 87000 Paris</Adresse>
+    <Couriel>moreau.alexandre@gmail.com</Couriel>
+    <Num>606024830</Num>
+    <Prenom>Alexandre</Prenom>
+  </Individu>
+  <Individu>
+    <Noclient>I9</Noclient>
+    <Nom>LAURENT</Nom>
+    <Adresse>169 avenue des écureils 42000 Paris</Adresse>
+    <Couriel>laurent.baptiste@gmail.com</Couriel>
+    <Num>722031941</Num>
+    <Prenom>Baptiste</Prenom>
+  </Individu>
+</ArrayOfIndividu>

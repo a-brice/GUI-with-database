@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPiece xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Piece>
+    <Noequipement>C01</Noequipement>
+    <Nom>Cadre  type EVQ</Nom>
+    <Prix>80</Prix>
+    <Datedebut>2014-11-20T00:00:00</Datedebut>
+    <Datefin>2025-08-02T00:00:00</Datefin>
+    <Description>Cadre rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C02</Noequipement>
+    <Nom>Cadre  type FWO</Nom>
+    <Prix>80</Prix>
+    <Datedebut>2019-08-19T00:00:00</Datedebut>
+    <Datefin>2022-02-17T00:00:00</Datefin>
+    <Description>Cadre rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C15</Noequipement>
+    <Nom>Cadre  OLM</Nom>
+    <Prix>47</Prix>
+    <Datedebut>2015-10-06T00:00:00</Datedebut>
+    <Datefin>2024-12-01T00:00:00</Datefin>
+    <Description>Cadre rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C25</Noequipement>
+    <Nom>Cadre  XUF</Nom>
+    <Prix>39</Prix>
+    <Datedebut>2015-01-17T00:00:00</Datedebut>
+    <Datefin>2027-08-02T00:00:00</Datefin>
+    <Description>Cadre  rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C26</Noequipement>
+    <Nom>Cadre  JMG</Nom>
+    <Prix>36</Prix>
+    <Datedebut>2017-06-04T00:00:00</Datedebut>
+    <Datefin>2030-05-11T00:00:00</Datefin>
+    <Description>Cadre  blanc</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C32</Noequipement>
+    <Nom>Cadre  type OJY</Nom>
+    <Prix>29</Prix>
+    <Datedebut>2017-04-03T00:00:00</Datedebut>
+    <Datefin>2025-05-10T00:00:00</Datefin>
+    <Description>Cadre rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C34</Noequipement>
+    <Nom>Cadre  type XQO</Nom>
+    <Prix>41</Prix>
+    <Datedebut>2019-03-03T00:00:00</Datedebut>
+    <Datefin>2027-07-25T00:00:00</Datefin>
+    <Description>Cadre bleu</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C43</Noequipement>
+    <Nom>Cadre  RVS</Nom>
+    <Prix>60</Prix>
+    <Datedebut>2019-03-23T00:00:00</Datedebut>
+    <Datefin>2027-06-17T00:00:00</Datefin>
+    <Description>Cadre vert</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C43f</Noequipement>
+    <Nom>Cadre  type AFO</Nom>
+    <Prix>41</Prix>
+    <Datedebut>2016-09-03T00:00:00</Datedebut>
+    <Datefin>2025-08-10T00:00:00</Datefin>
+    <Description>Cadre rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C44f</Noequipement>
+    <Nom>Cadre  XFA</Nom>
+    <Prix>63</Prix>
+    <Datedebut>2016-01-27T00:00:00</Datedebut>
+    <Datefin>2020-06-23T00:00:00</Datefin>
+    <Description>Cadre rouge haute qualité</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C76</Noequipement>
+    <Nom>Cadre  type VXK</Nom>
+    <Prix>76</Prix>
+    <Datedebut>2014-06-29T00:00:00</Datedebut>
+    <Datefin>2026-05-25T00:00:00</Datefin>
+    <Description>Cadre jaune</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C87</Noequipement>
+    <Nom>Cadre  TPK</Nom>
+    <Prix>21</Prix>
+    <Datedebut>2019-05-22T00:00:00</Datedebut>
+    <Datefin>2030-07-04T00:00:00</Datefin>
+    <Description>Cadre rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>C87f</Noequipement>
+    <Nom>Cadre  type PMA</Nom>
+    <Prix>38</Prix>
+    <Datedebut>2017-05-01T00:00:00</Datedebut>
+    <Datefin>2025-06-15T00:00:00</Datefin>
+    <Description>Cadre  rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DR23</Noequipement>
+    <Nom>Dérailleur Arrière type BIG</Nom>
+    <Prix>57</Prix>
+    <Datedebut>2016-06-22T00:00:00</Datedebut>
+    <Datefin>2027-10-14T00:00:00</Datefin>
+    <Description>Dérailleur Arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DR52</Noequipement>
+    <Nom>Dérailleur Arrière type OCT</Nom>
+    <Prix>25</Prix>
+    <Datedebut>2014-12-23T00:00:00</Datedebut>
+    <Datefin>2027-06-21T00:00:00</Datefin>
+    <Description>Dérailleur Arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DR56</Noequipement>
+    <Nom>Dérailleur Arrière type OEM</Nom>
+    <Prix>71</Prix>
+    <Datedebut>2015-06-01T00:00:00</Datedebut>
+    <Datefin>2029-08-06T00:00:00</Datefin>
+    <Description>Dérailleur Arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DR76</Noequipement>
+    <Nom>Dérailleur Arrière type TVF</Nom>
+    <Prix>47</Prix>
+    <Datedebut>2014-04-17T00:00:00</Datedebut>
+    <Datefin>2023-10-23T00:00:00</Datefin>
+    <Description>Dérailleur Arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DR86</Noequipement>
+    <Nom>Dérailleur Arrière type SFA</Nom>
+    <Prix>75</Prix>
+    <Datedebut>2014-10-12T00:00:00</Datedebut>
+    <Datefin>2023-05-05T00:00:00</Datefin>
+    <Description>Dérailleur Arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DR87</Noequipement>
+    <Nom>Dérailleur Arrière type MME</Nom>
+    <Prix>69</Prix>
+    <Datedebut>2017-11-14T00:00:00</Datedebut>
+    <Datefin>2020-05-01T00:00:00</Datefin>
+    <Description>Dérailleur Arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DV132</Noequipement>
+    <Nom>Dérailleur Avant type GWR</Nom>
+    <Prix>57</Prix>
+    <Datedebut>2016-03-06T00:00:00</Datedebut>
+    <Datefin>2020-12-28T00:00:00</Datefin>
+    <Description>Dérailleur Avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DV133</Noequipement>
+    <Nom>Dérailleur Avant JSK</Nom>
+    <Prix>31</Prix>
+    <Datedebut>2014-07-05T00:00:00</Datedebut>
+    <Datefin>2029-03-10T00:00:00</Datefin>
+    <Description>Dérailleur Avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DV15</Noequipement>
+    <Nom>Dérailleur Avant type MVX</Nom>
+    <Prix>39</Prix>
+    <Datedebut>2016-10-07T00:00:00</Datedebut>
+    <Datefin>2024-03-01T00:00:00</Datefin>
+    <Description>Dérailleur Avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DV17</Noequipement>
+    <Nom>Dérailleur Avant type UDD</Nom>
+    <Prix>58</Prix>
+    <Datedebut>2017-04-17T00:00:00</Datedebut>
+    <Datefin>2030-04-16T00:00:00</Datefin>
+    <Description>Dérailleur Avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DV41</Noequipement>
+    <Nom>Dérailleur Avant WAP</Nom>
+    <Prix>56</Prix>
+    <Datedebut>2018-06-13T00:00:00</Datedebut>
+    <Datefin>2024-11-07T00:00:00</Datefin>
+    <Description>Dérailleur Avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DV57</Noequipement>
+    <Nom>Dérailleur Avant type ADQ</Nom>
+    <Prix>32</Prix>
+    <Datedebut>2014-10-18T00:00:00</Datedebut>
+    <Datefin>2021-03-07T00:00:00</Datefin>
+    <Description>Dérailleur Avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>DV87</Noequipement>
+    <Nom>Dérailleur Avant DVF</Nom>
+    <Prix>58</Prix>
+    <Datedebut>2018-05-11T00:00:00</Datedebut>
+    <Datefin>2028-06-24T00:00:00</Datefin>
+    <Description>Dérailleur Avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>F3</Noequipement>
+    <Nom>Freins type FDF</Nom>
+    <Prix>40</Prix>
+    <Datedebut>2014-09-08T00:00:00</Datedebut>
+    <Datefin>2030-07-07T00:00:00</Datefin>
+    <Description>Freins rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>F9</Noequipement>
+    <Nom>Freins type EZT</Nom>
+    <Prix>67</Prix>
+    <Datedebut>2017-03-03T00:00:00</Datedebut>
+    <Datefin>2021-04-28T00:00:00</Datefin>
+    <Description>Freins rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>G12</Noequipement>
+    <Nom>Guidon BWD</Nom>
+    <Prix>57</Prix>
+    <Datedebut>2018-12-06T00:00:00</Datedebut>
+    <Datefin>2028-04-13T00:00:00</Datefin>
+    <Description>Guidon rouge haute qualité</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>G7</Noequipement>
+    <Nom>Guidon type JPQ</Nom>
+    <Prix>61</Prix>
+    <Datedebut>2017-06-04T00:00:00</Datedebut>
+    <Datefin>2030-08-08T00:00:00</Datefin>
+    <Description>Guidon rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>G9</Noequipement>
+    <Nom>Guidon type ENS</Nom>
+    <Prix>58</Prix>
+    <Datedebut>2017-07-14T00:00:00</Datedebut>
+    <Datefin>2025-04-10T00:00:00</Datefin>
+    <Description>Guidon rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>O2</Noequipement>
+    <Nom>Ordinateur TXW</Nom>
+    <Prix>62</Prix>
+    <Datedebut>2017-11-22T00:00:00</Datedebut>
+    <Datefin>2027-09-02T00:00:00</Datefin>
+    <Description>Ordinateur rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>O4</Noequipement>
+    <Nom>Ordinateur QZO</Nom>
+    <Prix>21</Prix>
+    <Datedebut>2018-07-22T00:00:00</Datedebut>
+    <Datefin>2028-10-29T00:00:00</Datefin>
+    <Description>Ordinateur rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>P1</Noequipement>
+    <Nom>Pédalier type HKB</Nom>
+    <Prix>59</Prix>
+    <Datedebut>2015-11-16T00:00:00</Datedebut>
+    <Datefin>2030-04-09T00:00:00</Datefin>
+    <Description>Pédalier rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>P12</Noequipement>
+    <Nom>Pédalier LZU</Nom>
+    <Prix>47</Prix>
+    <Datedebut>2014-05-18T00:00:00</Datedebut>
+    <Datefin>2026-09-07T00:00:00</Datefin>
+    <Description>Pédalier rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>P15</Noequipement>
+    <Nom>Pédalier EQC</Nom>
+    <Prix>67</Prix>
+    <Datedebut>2015-06-15T00:00:00</Datedebut>
+    <Datefin>2030-03-11T00:00:00</Datefin>
+    <Description>Pédalier rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>P34</Noequipement>
+    <Nom>Pédalier type OEF</Nom>
+    <Prix>28</Prix>
+    <Datedebut>2019-02-06T00:00:00</Datedebut>
+    <Datefin>2021-06-07T00:00:00</Datefin>
+    <Description>Pédalier rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R02</Noequipement>
+    <Nom>Réflecteurs type BUT</Nom>
+    <Prix>29</Prix>
+    <Datedebut>2016-01-18T00:00:00</Datedebut>
+    <Datefin>2026-03-02T00:00:00</Datefin>
+    <Description>Réflecteurs rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R09</Noequipement>
+    <Nom>Réflecteurs UUM</Nom>
+    <Prix>48</Prix>
+    <Datedebut>2015-06-26T00:00:00</Datedebut>
+    <Datefin>2025-11-26T00:00:00</Datefin>
+    <Description>Réflecteurs rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R1</Noequipement>
+    <Nom>Roue avant type DAD</Nom>
+    <Prix>76</Prix>
+    <Datedebut>2015-07-06T00:00:00</Datedebut>
+    <Datefin>2028-05-20T00:00:00</Datefin>
+    <Description>Roue avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R10</Noequipement>
+    <Nom>Réflecteurs type LWZ</Nom>
+    <Prix>41</Prix>
+    <Datedebut>2017-10-16T00:00:00</Datedebut>
+    <Datefin>2022-06-16T00:00:00</Datefin>
+    <Description>Réflecteurs rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R11</Noequipement>
+    <Nom>Roue avant SAO</Nom>
+    <Prix>28</Prix>
+    <Datedebut>2018-05-18T00:00:00</Datedebut>
+    <Datefin>2027-08-22T00:00:00</Datefin>
+    <Description>Roue avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R12</Noequipement>
+    <Nom>Roue avant XGD</Nom>
+    <Prix>75</Prix>
+    <Datedebut>2017-03-26T00:00:00</Datedebut>
+    <Datefin>2022-09-09T00:00:00</Datefin>
+    <Description>Roue avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R18</Noequipement>
+    <Nom>Roue arrière type LZK</Nom>
+    <Prix>26</Prix>
+    <Datedebut>2015-06-16T00:00:00</Datedebut>
+    <Datefin>2029-11-14T00:00:00</Datefin>
+    <Description>Roue arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R19</Noequipement>
+    <Nom>Roue avant GJB</Nom>
+    <Prix>43</Prix>
+    <Datedebut>2016-03-05T00:00:00</Datedebut>
+    <Datefin>2020-03-20T00:00:00</Datefin>
+    <Description>Roue avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R2</Noequipement>
+    <Nom>Roue arrière type URQ</Nom>
+    <Prix>20</Prix>
+    <Datedebut>2015-04-05T00:00:00</Datedebut>
+    <Datefin>2029-06-22T00:00:00</Datefin>
+    <Description>Roue arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R32</Noequipement>
+    <Nom>Roue arrière type JGN</Nom>
+    <Prix>27</Prix>
+    <Datedebut>2014-10-20T00:00:00</Datedebut>
+    <Datefin>2028-05-09T00:00:00</Datefin>
+    <Description>Roue arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R44</Noequipement>
+    <Nom>Roue avant UOM</Nom>
+    <Prix>76</Prix>
+    <Datedebut>2016-11-23T00:00:00</Datedebut>
+    <Datefin>2028-06-28T00:00:00</Datefin>
+    <Description>Roue avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R45</Noequipement>
+    <Nom>Roue avant PWY</Nom>
+    <Prix>34</Prix>
+    <Datedebut>2016-10-28T00:00:00</Datedebut>
+    <Datefin>2020-11-07T00:00:00</Datefin>
+    <Description>Roue avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R46</Noequipement>
+    <Nom>Roue arrière type TCU</Nom>
+    <Prix>43</Prix>
+    <Datedebut>2014-12-31T00:00:00</Datedebut>
+    <Datefin>2021-02-10T00:00:00</Datefin>
+    <Description>Roue arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R47</Noequipement>
+    <Nom>Roue arrière TIG</Nom>
+    <Prix>32</Prix>
+    <Datedebut>2016-02-10T00:00:00</Datedebut>
+    <Datefin>2021-04-20T00:00:00</Datefin>
+    <Description>Roue arrière rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>R48</Noequipement>
+    <Nom>Roue avant CBY</Nom>
+    <Prix>39</Prix>
+    <Datedebut>2016-12-05T00:00:00</Datedebut>
+    <Datefin>2030-05-18T00:00:00</Datefin>
+    <Description>Roue avant rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S01</Noequipement>
+    <Nom>Panier type BWO</Nom>
+    <Prix>44</Prix>
+    <Datedebut>2016-12-03T00:00:00</Datedebut>
+    <Datefin>2026-09-20T00:00:00</Datefin>
+    <Description>Panier rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S02</Noequipement>
+    <Nom>Selle ABG</Nom>
+    <Prix>54</Prix>
+    <Datedebut>2014-07-09T00:00:00</Datedebut>
+    <Datefin>2022-10-17T00:00:00</Datefin>
+    <Description>Selle rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S03</Noequipement>
+    <Nom>Selle type UTN</Nom>
+    <Prix>71</Prix>
+    <Datedebut>2014-03-08T00:00:00</Datedebut>
+    <Datefin>2023-03-12T00:00:00</Datefin>
+    <Description>Selle rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S05</Noequipement>
+    <Nom>Panier BUH</Nom>
+    <Prix>53</Prix>
+    <Datedebut>2017-03-23T00:00:00</Datedebut>
+    <Datefin>2020-10-23T00:00:00</Datefin>
+    <Description>Panier rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S34</Noequipement>
+    <Nom>Selle BTV</Nom>
+    <Prix>71</Prix>
+    <Datedebut>2015-04-09T00:00:00</Datedebut>
+    <Datefin>2025-05-08T00:00:00</Datefin>
+    <Description>Selle rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S35</Noequipement>
+    <Nom>Selle type HFL</Nom>
+    <Prix>69</Prix>
+    <Datedebut>2017-12-28T00:00:00</Datedebut>
+    <Datefin>2020-09-18T00:00:00</Datefin>
+    <Description>Selle rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S36</Noequipement>
+    <Nom>Selle JYM</Nom>
+    <Prix>69</Prix>
+    <Datedebut>2019-12-23T00:00:00</Datedebut>
+    <Datefin>2027-02-08T00:00:00</Datefin>
+    <Description>Selle rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S37</Noequipement>
+    <Nom>Selle type WQU</Nom>
+    <Prix>33</Prix>
+    <Datedebut>2015-12-24T00:00:00</Datedebut>
+    <Datefin>2025-10-21T00:00:00</Datefin>
+    <Description>Selle rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S73</Noequipement>
+    <Nom>Panier BQB</Nom>
+    <Prix>50</Prix>
+    <Datedebut>2014-05-01T00:00:00</Datedebut>
+    <Datefin>2030-05-16T00:00:00</Datefin>
+    <Description>Panier rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S74</Noequipement>
+    <Nom>Panier MHH</Nom>
+    <Prix>59</Prix>
+    <Datedebut>2018-11-13T00:00:00</Datedebut>
+    <Datefin>2020-04-29T00:00:00</Datefin>
+    <Description>Panier rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S87</Noequipement>
+    <Nom>Selle EYM</Nom>
+    <Prix>36</Prix>
+    <Datedebut>2016-01-25T00:00:00</Datedebut>
+    <Datefin>2024-05-31T00:00:00</Datefin>
+    <Description>Selle rouge</Description>
+  </Piece>
+  <Piece>
+    <Noequipement>S88</Noequipement>
+    <Nom>Selle type WMZ</Nom>
+    <Prix>65</Prix>
+    <Datedebut>2017-04-02T00:00:00</Datedebut>
+    <Datefin>2027-02-11T00:00:00</Datefin>
+    <Description>Selle rougehaute qualité</Description>
+  </Piece>
+</ArrayOfPiece>

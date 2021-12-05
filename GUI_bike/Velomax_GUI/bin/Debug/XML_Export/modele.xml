@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModele xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Modele>
+    <Noequipement>101</Noequipement>
+    <Nom>Kilimandjaro</Nom>
+    <Prix>569</Prix>
+    <Datedebut>2016-08-08T00:00:00</Datedebut>
+    <Datefin>2026-06-28T00:00:00</Datefin>
+    <Categorie>VTT</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>102</Noequipement>
+    <Nom>NorthPole</Nom>
+    <Prix>329</Prix>
+    <Datedebut>2017-12-01T00:00:00</Datedebut>
+    <Datefin>2025-09-04T00:00:00</Datefin>
+    <Categorie>VTT</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>103</Noequipement>
+    <Nom>MontBlanc</Nom>
+    <Prix>399</Prix>
+    <Datedebut>2021-05-18T00:00:00</Datedebut>
+    <Datefin>2021-02-12T00:00:00</Datefin>
+    <Categorie>VTT</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>104</Noequipement>
+    <Nom>Hooligan</Nom>
+    <Prix>199</Prix>
+    <Datedebut>2016-06-25T00:00:00</Datedebut>
+    <Datefin>2020-09-15T00:00:00</Datefin>
+    <Categorie>VTT</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>105</Noequipement>
+    <Nom>Orléans</Nom>
+    <Prix>229</Prix>
+    <Datedebut>2020-03-01T00:00:00</Datedebut>
+    <Datefin>2023-02-23T00:00:00</Datefin>
+    <Categorie>Vélo de course</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>106</Noequipement>
+    <Nom>BlueJay</Nom>
+    <Prix>349</Prix>
+    <Datedebut>2019-12-08T00:00:00</Datedebut>
+    <Datefin>2021-06-17T00:00:00</Datefin>
+    <Categorie>Vélo de course</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>107</Noequipement>
+    <Nom>Trail Ex lorer</Nom>
+    <Prix>129</Prix>
+    <Datedebut>2020-01-22T00:00:00</Datedebut>
+    <Datefin>2022-09-02T00:00:00</Datefin>
+    <Categorie>Classique</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>108</Noequipement>
+    <Nom>Night Hawk</Nom>
+    <Prix>189</Prix>
+    <Datedebut>2021-12-10T00:00:00</Datedebut>
+    <Datefin>2025-12-18T00:00:00</Datefin>
+    <Categorie>Classique</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>109</Noequipement>
+    <Nom>Tierra Verde</Nom>
+    <Prix>199</Prix>
+    <Datedebut>2018-07-11T00:00:00</Datedebut>
+    <Datefin>2022-07-13T00:00:00</Datefin>
+    <Categorie>Classique</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+  <Modele>
+    <Noequipement>110</Noequipement>
+    <Nom>Mud Zinger I</Nom>
+    <Prix>279</Prix>
+    <Datedebut>2015-09-05T00:00:00</Datedebut>
+    <Datefin>2023-06-05T00:00:00</Datefin>
+    <Categorie>BMX</Categorie>
+    <Stock>0</Stock>
+  </Modele>
+</ArrayOfModele>
