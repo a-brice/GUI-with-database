@@ -1,0 +1,121 @@
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Velomax_GUI.exe.config
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Velomax_GUI.exe
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Velomax_GUI.pdb
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\MySql.Data.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Zstandard.Net.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Renci.SshNet.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\System.Buffers.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\MySql.Data.xml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.csprojAssemblyReference.cache
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.exe.config
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Window_Accueil.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\App.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI_MarkupCompile.cache
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI_MarkupCompile.lref
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\MainWindow.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Window_Accueil.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.g.resources
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.Properties.Resources.resources
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.csproj.GenerateResource.cache
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.csproj.CoreCompileInputs.cache
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.csproj.CopyComplete
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.exe
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.pdb
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\Commande_page.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\Commande_page.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\client_page.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\client_page.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\fournisseur_page.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\fournisseur_page.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\Stock_page.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\Stock_page.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\piece_page.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\piece_page.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.pdb
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.xml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\popup_stat.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\popup_stat.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\statistique_page.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\statistique_page.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\modele_page.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\modele_page.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\page_accueil.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\page_accueil.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\page_export.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\page_export.baml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\demo_page.g.cs
+C:\Users\brice\OneDrive\Documents\Cours S6\BDD & Interopérabilité\Projet Velomax\Velomax_GUI\Velomax_GUI\obj\Debug\Page\demo_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Velomax_GUI.exe.config
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Velomax_GUI.exe
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Velomax_GUI.pdb
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Zstandard.Net.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Renci.SshNet.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\System.Buffers.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.pdb
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.xml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\MySql.Data.xml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.csprojAssemblyReference.cache
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.exe.config
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\demo_page.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\client_page.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\commande_page.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\fournisseur_page.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\Stock_page.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\modele_page.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\piece_page.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\page_accueil.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\page_export.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\popup_stat.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\statistique_page.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Window_Accueil.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\App.g.cs
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI_MarkupCompile.cache
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI_MarkupCompile.lref
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\demo_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\client_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\commande_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\MainWindow.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\fournisseur_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\Stock_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\modele_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\piece_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\page_accueil.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\page_export.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\popup_stat.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Page\statistique_page.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Window_Accueil.baml
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.g.resources
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.Properties.Resources.resources
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.csproj.GenerateResource.cache
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.csproj.CoreCompileInputs.cache
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.csproj.CopyComplete
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.exe
+C:\Users\brice\OneDrive\Nouveau dossier\OneDrive\Documents\INFORMATIQUE\Projet\s6\Velomax_GUI\Velomax_GUI\obj\Debug\Velomax_GUI.pdb
