@@ -1,0 +1,65 @@
+﻿<Window x:Class="Velomax_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Velomax_GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FF102463" Offset="1"/>
+                <GradientStop Color="#FF535273"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="58*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="35*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="69*"/>
+            <ColumnDefinition Width="144*"/>
+            <ColumnDefinition Width="80*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Identifiant :" Grid.Column="1" Grid.Row="1" VerticalAlignment="Top" FontFamily="Sitka Heading" FontSize="20" FontWeight="Bold">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA59B9B" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label Content="Mot de passe :" Grid.Column="1" Grid.Row="3" VerticalAlignment="Top" FontFamily="Sitka Heading" FontSize="20" FontWeight="Bold" >
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA59B9B" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <TextBox x:Name="box_uid" Grid.Column="1" Height="30" Grid.Row="2" TextWrapping="Wrap" Text="root" VerticalAlignment="Top" FontFamily="Sitka Heading" FontSize="20" VerticalContentAlignment="Center"/>
+        <PasswordBox x:Name="box_password" Grid.Column="1" Height="30" Grid.Row="4" Password="root" VerticalAlignment="Top" FontFamily="Sitka Heading" FontSize="20" VerticalContentAlignment="Center"/>
+        <Border BorderThickness="3" Grid.Column="1" CornerRadius="13" Grid.Row="5" Margin="0,10,0,0" MouseDown="login" MouseEnter="change_color" MouseLeave="change_color" >
+            <Border.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFAEAEAE" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <TextBlock Text="Connexion" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Sitka Heading" FontSize="20" FontWeight="Bold" >
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFB4AFAF" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+        </Border>
+    </Grid>
+</Window>
